@@ -31,12 +31,12 @@ Currently, I am fully dedicated to the field of technology, where I thrive as a 
 
 - 📫 How to contact me:
 
-  <a href="https://www.linkedin.com/in/pedro-henrique-tofani-ferreira/">
-    <img align="left" alt="PedroLinkedIn" width="30px" src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/linkedIn.png" />
+  <a href="https://www.linkedin.com/in/vinicius-david-fonseca/">
+    <img align="left" alt="ViniciusDavidIn" width="30px" src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/linkedIn.png" />
   </a>
-  <a href="mailto:ph.tofani@gmail.com">
+  <a href="mailto:vinicius.davidf@gmail.com">
     <img align="left" alt="PedroGmail" width="30px" src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/gmail.png" />
   </a>
  
  &nbsp;
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedro-tofani&label=Profile%20views&color=0e75b6&style=flat" alt="pedro-tofani" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinicius-david&label=Profile%20views&color=0e75b6&style=flat" alt="vinicius-david" /> </p>
