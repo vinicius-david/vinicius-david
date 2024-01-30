@@ -8,26 +8,20 @@ Currently, I am fully dedicated to the field of technology, where I thrive as a 
 
 - 🔎 What I know:
 
-<img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25" /> &nbsp;
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /> &nbsp;
+<img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript" alt="Typescript logo" title="Typescript" height="25" /> &nbsp;
+<img src="https://img.shields.io/badge/NodeJS-282C34?logo=node.js" alt="Node logo" title="Node" height="25" /> &nbsp;
+<img src="https://img.shields.io/badge/ReactJS-282C34?logo=react" alt="React logo" title="React" height="25" /> &nbsp;
+<img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs" alt="Nest logo" title="Nest" height="25" /> &nbsp;
+
+<img src="https://img.shields.io/badge/Docker-282C34?logo=docker" alt="Docker logo" title="Docker" height="25" /> &nbsp;
+<img src="https://img.shields.io/badge/SQL-282C34?logo=PostgreSQL" alt="PostgreSQL logo" title="PostgreSQL" height="25" /> &nbsp;
+<img src="https://img.shields.io/badge/NoSQL-282C34?logo=MongoDB" alt="MongoDB logo" title="MongoDB" height="25" /> &nbsp;
+<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes" alt="Kubernetes logo" title="Kubernetes" height="25" /> &nbsp;
+<img src="https://img.shields.io/badge/AWS-282C34?logo=Amazon AWS&logoColor=fc4e03" alt="Amazon AWS logo" title="Amazon AWS" height="25" /> &nbsp;
 
 <img src="https://img.shields.io/badge/Git-282C34?logo=git" alt="Git logo" title="Git" height="25" /> &nbsp;
 <img src="https://img.shields.io/badge/linux-282C34?logo=linux" alt="linux logo" title="linux" height="25" /> &nbsp;
-<img src="https://img.shields.io/badge/Docker-282C34?logo=docker" alt="Docker logo" title="Docker" height="25" /> &nbsp;
-<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes" alt="Kubernetes logo" title="Kubernetes" height="25" /> &nbsp;
-
-<img src="https://img.shields.io/badge/SQL-282C34?logo=PostgreSQL" alt="PostgreSQL logo" title="PostgreSQL" height="25" /> &nbsp;
-<img src="https://img.shields.io/badge/NoSQL-282C34?logo=MongoDB" alt="MongoDB logo" title="MongoDB" height="25" /> &nbsp;
-
-<img src="https://img.shields.io/badge/Apache Airflow-282C34?logo=Apache Airflow&logoColor=F7DF1E" alt="Apache Airflow logo" title="Apache Airflow" height="25" /> &nbsp;
-<img src="https://img.shields.io/badge/Apache Spark-282C34?logo=Apache Spark&logoColor=fc4e03" alt="Apache Spark logo" title="Apache Spark" height="25" /> &nbsp;
-<img src="https://img.shields.io/badge/Kafka-282C34?logo=Apache Kafka&logoColor=050005" alt="Apache Kafka logo" title="Apache Kafka" height="25" /> &nbsp;
-
-<img src="https://img.shields.io/badge/dbt-282C34?logo=dbt" alt="dbt logo" title="dbt logo" height="25" /> &nbsp;
-<img src="https://img.shields.io/badge/Snowflake-282C34?logo=Snowflake" alt="Snowflake logo" title="Snowflake logo" height="25" /> &nbsp;
-
-<img src="https://img.shields.io/badge/AWS-282C34?logo=Amazon AWS&logoColor=fc4e03" alt="Amazon AWS logo" title="Amazon AWS" height="25" /> &nbsp;
-<img src="https://img.shields.io/badge/Databricks-282C34?logo=Databricks" alt="Databricks logo" title="Databricks" height="25" /> &nbsp;
 
 - 📫 How to contact me:
 
@@ -37,6 +31,3 @@ Currently, I am fully dedicated to the field of technology, where I thrive as a 
   <a href="mailto:vinicius.davidf@gmail.com">
     <img align="left" alt="PedroGmail" width="30px" src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/gmail.png" />
   </a>
- 
- &nbsp;
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinicius-david&label=Profile%20views&color=0e75b6&style=flat" alt="vinicius-david" /> </p>
